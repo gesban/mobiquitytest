@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MobiquityTest</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="m_units">"Change to "</string>
+    <string name="m_units_celsius">Celsius</string>
+    <string name="m_units_fahrenheit">Fahrenheit</string>
+
+    <string name="enter_zip_code">Enter zip code</string>
+    <string name="loading_temperature">"Loading temperature for "</string>
+
+
+    <string name="cannot">Cannot</string>
+    <string name="album_name">Camera</string>
+
+
+    <string name="permission_storage">permission storage</string>
+    <string name="permission_storage_success">storage success</string>
+    <string name="permission_storage_failure">storage failure</string>
+
+</resources>
